@@ -216,8 +216,4 @@ With only 30 training images and no neural network, the agent achieved around 60
 
 Stember, J. N., & Shalu, H. (2022). Reinforcement learning for brain tumor localization in medical images.
 
-## Author
 
-Arunya
-B.S. in Data Science and Artificial Intelligence
-IIT Madras Zanzibar
